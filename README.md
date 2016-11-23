@@ -2,7 +2,7 @@
 
 Add a DOI link directly into ExLibris' Alma "View it" tab.
 
-![DOI link in Alma ViewIt tab](http://url/to/img.png)
+![DOI link in Alma ViewIt tab](https://github.com/Dioscorides/alma-view-it-doi-link/blob/master/example/example.png?raw=true)
 
 ## Requierments
 
