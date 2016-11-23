@@ -2,6 +2,8 @@
 
 Add a DOI link directly into ExLibris' Alma "View it" tab.
 
+![DOI link in Alma ViewIt tab](http://url/to/img.png)
+
 ## Requierments
 
 * Jquery (usually already present in your Primo/Alma installation)
